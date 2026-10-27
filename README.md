@@ -2,7 +2,7 @@
 
 `misor-d2.zip` is the basemap for the PaDayon Pilipino eMap. It is a PMTiles file (not a zip archive): an OpenMapTiles vector tileset with a Northern Mindanao overview (zoom 0 to 10) and street-level detail for the 2nd District of Misamis Oriental (zoom 11 to 14).
 
-`misor-dem.zip` is the 3D terrain for the same eMap. It is also a PMTiles file: Copernicus GLO-30 elevation for the Northern Mindanao overview area, as Terrarium-encoded WebP tiles (zoom 0 to 12).
+`misor-dem.zip` is the 3D terrain for the same eMap. It is also a PMTiles file: Copernicus GLO-30 elevation as Terrarium-encoded WebP tiles: zoom 0 to 10 for the Northern Mindanao overview area, and zoom 11 to 12 for the 2nd District only.
 
 Both files follow these rules:
 
